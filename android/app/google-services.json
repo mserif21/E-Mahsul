@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "527927378189",
+    "project_id": "e-mahsul-c380c",
+    "storage_bucket": "e-mahsul-c380c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527927378189:android:470b3040da694899f07044",
+        "android_client_info": {
+          "package_name": "com.example.e_mahsul_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527927378189-dghnv4bq83po717i7qg0l5hmg56j2nao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_mahsul_flutter",
+            "certificate_hash": "c3f9b625d939ab7f1f3e34d4365165acdc674d88"
+          }
+        },
+        {
+          "client_id": "527927378189-rtvih5fmf4lef5mok1cl82l0vlsion2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf-S7CNt06viSl3roXIm8WPH3GfYl0ifs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527927378189-rtvih5fmf4lef5mok1cl82l0vlsion2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
